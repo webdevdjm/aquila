@@ -1,1 +1,1 @@
-# WordPress Theme - Aquina
+# WordPress Theme - Aquila
